@@ -1,0 +1,27 @@
+{
+  "name": "IOSAppInfo",
+  "version": "2.1.0",
+  "description": "Cordova ios plugin for wso2 app store addon.",
+  "cordova": {
+    "id": "cordova-plugin-iosappinfo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shifudeen/iosappinfo.git"
+  },
+  "keywords": [
+    "appinstalled",
+    "applaunch",
+    "appversion",
+    "ecosystem:cordova"
+  ],
+  "author": "Deen",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/shifudeen/issues"
+  },
+  "homepage": "https://github.com/shifudeen/iosappinfo#readme"
+}
